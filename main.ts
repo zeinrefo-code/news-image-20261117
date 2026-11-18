@@ -393,7 +393,7 @@ function build(): void {
     {
       x: 24, y: 548,
       art: drawRadarArt,
-      head: ["IRAN DRONES HIT", "US RADAR, BAHRAIN"],
+      head: ["IRAN DRONES TARGET", "US RADAR, BAHRAIN"],
       sum: "BAHRAIN SAYS ITS DEFENCES SHOT THE DRONES DOWN. NO DAMAGE AND NO INJURIES REPORTED.",
     },
     {
